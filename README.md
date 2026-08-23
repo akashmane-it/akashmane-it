@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Akash Mane 👋
 
-<!--
-**akashmane-it/akashmane-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 IT Engineering Student  
+💻 Learning Java and Python  
+🚀 Interested in Software Development  
+📚 Currently improving my programming and problem-solving skills
 
-Here are some ideas to get you started:
+## 🛠️ Skills & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- Python
+- Git & GitHub
+- VS Code
+
+## 🚀 Current Project
+
+### Emergency Ambulance Route System
+A project focused on helping ambulances find efficient routes to reach hospitals faster.
+
+## 📚 Currently Learning
+
+- Java Programming
+- Python
+- Data Structures & Algorithms
+- Software Development
+
+## 🎯 Goal
+
+To build practical software projects and develop strong technical skills for a career in IT.
+
+---
+
+⭐ Thanks for visiting my profile!
